@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="action_settings">Наладкі</string>
+    <string name="app_name">Забаўныя факты</string>
+    <string name="did_you_know">Вы ведалі?</string>
+    <string name="fact1">Мурашы вельмі маленькія</string>
+    <string name="fact2">Коні вельмі хуткія</string>
+    <string name="button_next_fact">Паказаць іншы забаўны факт</string>
+
+</resources>
