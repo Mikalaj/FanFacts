@@ -1,18 +1,18 @@
-package mikalaj.fanfacts;
+package mikalaj.fanfacts.ui;
 
 import android.app.Activity;
-import android.content.Context;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import mikalaj.fanfacts.R;
+import mikalaj.fanfacts.model.RandomColor;
 
 
 public class FanFactsActivity extends Activity {

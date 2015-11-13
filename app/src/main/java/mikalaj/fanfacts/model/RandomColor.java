@@ -1,4 +1,4 @@
-package mikalaj.fanfacts;
+package mikalaj.fanfacts.model;
 
 import android.graphics.Color;
 
